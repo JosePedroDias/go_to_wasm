@@ -1,3 +1,5 @@
+# go to wasm
+
 https://go.dev/wiki/WebAssembly
 https://pkg.go.dev/syscall/js
 
